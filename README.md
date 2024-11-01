@@ -1,7 +1,7 @@
 -  Hi, I’m Gourav Sharma
--  17 , chennai - India 
-- I’m currently learning frontend devlopment 
+-  18 , chennai - India 
+- I’m currently working on LLMs  
 - contact - gouravsharma000147@gmail.com
-- I'm here to learn more abt coding
+- skills - web development , ML with python,
 
 
